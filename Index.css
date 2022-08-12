@@ -30,7 +30,7 @@ body{
 }
 .img{
     margin-top: 2%;
-    background: url("./pexels-sora-shimazaki-5926397.jpg");
+    background: url("/images/pexels-sora-shimazaki-5926397.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
